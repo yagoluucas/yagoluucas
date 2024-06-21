@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, meu nome é Yago
+## Sobre Mim
+- :mortar_board: Estudante de análise e desenvolvimento de sistemas pela FIAP</li>
+- :briefcase: Estágiario de campanhas Salesforce Marketing Cloud na Plusoft</li>
+## Minhas Skills
 
-<!--
-**yagoluucas/yagoluucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aplicações e Dados
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Microsoft SQL server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-Here are some ideas to get you started:
+### Nuvem
+![HTML](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
