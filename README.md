@@ -12,6 +12,16 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Nuvem
-![HTML](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+![Minhas estrelas do github](https://github-readme-stats.vercel.app/api?username=yagoluucas&show_icons=true&theme=radical)
+
+## Contato
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:yago543@gmail.com)](mailto:yago543@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yago-lucas-silva/)](https://www.linkedin.com/in/yago-lucas-silva/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511979918961&text=Ol%C3%A1%2C%20vim%20pelo%20seu%20perfil%20do%20github%20%F0%9F%98%80)
+
+
 
 
