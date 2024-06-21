@@ -15,7 +15,14 @@
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-![Minhas estrelas do github](https://github-readme-stats.vercel.app/api?username=yagoluucas&show_icons=true&theme=radical)
+![Top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoluucas)
+
+## Projetos
+### Salesforce Assistent, uma Solução da WebForAll
+[![Salesforce Assistent](https://github-readme-stats.vercel.app/api/pin/?username=yagoluucas&repo=salesforce_web)](https://github.com/yagoluucas/salesforce_web)  
+Veja nosso projeto no ar clicando aqui [aqui](https://salesforce-assistent.vercel.app/)
+
+### 
 
 ## Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:yago543@gmail.com)](mailto:yago543@gmail.com)
