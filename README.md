@@ -22,7 +22,9 @@
 [![Salesforce Assistent](https://github-readme-stats.vercel.app/api/pin/?username=yagoluucas&repo=salesforce_web)](https://github.com/yagoluucas/salesforce_web)  
 Veja nosso projeto no ar clicando aqui [aqui](https://salesforce-assistent.vercel.app/)
 
-### 
+### Mr.Turtle
+[![Mr.turtle](https://github-readme-stats.vercel.app/api/pin/?username=yagoluucas&repo=entrega-global-web)](https://github.com/yagoluucas/entrega-global-web)  
+Veja nosso projeto no ar clicando aqui [aqui](https://mrturttle.vercel.app/)
 
 ## Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:yago543@gmail.com)](mailto:yago543@gmail.com)
