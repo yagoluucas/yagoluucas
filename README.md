@@ -40,8 +40,17 @@ Veja nosso projeto no ar clicando aqui [aqui](https://salesforce-assistent.verce
 [![Mr.turtle](https://github-readme-stats.vercel.app/api/pin/?username=yagoluucas&repo=entrega-global-web)](https://github.com/yagoluucas/entrega-global-web)  
 Veja nosso projeto no ar clicando aqui [aqui](https://mrturttle.vercel.app/)
 
+### Rede Neural para análise de fraudes
+[![Rede Neural FraudWatch](https://github-readme-stats.vercel.app/api/pin/?username=yagoluucas&repo=sprint2_fraudwatch_ia)](https://github.com/yagoluucas/sprint2_fraudwatch_ia)
+
+### API para Custom Activity (Salesforce Marketing Cloud)
+[![Rede Neural FraudWatch](https://github-readme-stats.vercel.app/api/pin/?username=yagoluucas&repo=dev-custom-activity)](https://github.com/yagoluucas/dev-custom-activity)
+
+
 ## Alguns vídeos
 - Construindo uma API em Java : https://www.youtube.com/watch?v=TZwxAxindv0
+- Crawler com C# https://youtu.be/GbAlz6wGQSA?si=4k0qxSOPkojLXKZ5
+- Apresentação aplicativo EnergiWyse: https://youtu.be/MOzTS2euJqc?si=e504jcXQ23W2ElDF
 
 ## Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:yago543@gmail.com)](mailto:yago543@gmail.com)
