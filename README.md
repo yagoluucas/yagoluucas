@@ -1,8 +1,8 @@
 # Olá, meu nome é Yago
 ## Sobre Mim
 - :mortar_board: Estudante de análise e desenvolvimento de sistemas pela FIAP</li>
-- :briefcase: Estágiario de campanhas Salesforce Marketing Cloud na Plusoft</li>
-- :computer: Explorando o universo tanto do back-end quanto do front-end
+- :briefcase: Analista de campanhas Digitais pela PMWEB</li>
+- :computer: Explorando o mundo da cloud 
 ## Minhas Skills
 
 ### Aplicações e Dados
