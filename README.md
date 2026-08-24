@@ -1,8 +1,7 @@
 # Olá, meu nome é Yago
 ## Sobre Mim
-- :mortar_board: Estudante de análise e desenvolvimento de sistemas pela FIAP</li>
-- :briefcase: Analista de campanhas Digitais pela PMWEB</li>
-- :computer: Explorando o mundo da cloud 
+- :mortar_board: Analista de Sistemas formado pela FIAP</li>
+- :briefcase: Consultor Salesforce Marketing Cloud Pleno na OSF Digital</li>
 ## Minhas Skills
 
 ### Aplicações e Dados
